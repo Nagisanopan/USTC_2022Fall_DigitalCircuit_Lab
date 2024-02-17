@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Nov 17 17:31:25 2022
+# Process ID: 8076
+# Current directory: E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex6/T3-2/T3-2.runs/impl_1
+# Command line: vivado.exe -log CNT.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source CNT.tcl -notrace
+# Log file: E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex6/T3-2/T3-2.runs/impl_1/CNT.vdi
+# Journal file: E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex6/T3-2/T3-2.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source CNT.tcl -notrace

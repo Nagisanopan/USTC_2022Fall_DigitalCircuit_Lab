@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Nov 17 15:45:49 2022
+# Process ID: 7380
+# Current directory: E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex6/T3/T3.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex6/T3/T3.sim/sim_1/behav/xsim/xsim.dir/CNT_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex6/T3/T3.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex6/T3/T3.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source E:/USTC/2nd -notrace

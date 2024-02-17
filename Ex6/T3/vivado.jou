@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Nov 17 17:26:24 2022
+# Process ID: 4580
+# Current directory: E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex6/T3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16500 E:\USTC\2nd year-1st sem\Digital circuit Experiment\Ex6\T3\T3.xpr
+# Log file: E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex6/T3/vivado.log
+# Journal file: E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex6/T3\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex6/T3/T3.xpr}
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
